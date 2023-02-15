@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { RxSketchLogo, RxDashboard, RxPerson } from 'react-icons/rx';
-import { AiOutlineHome } from 'react-icons/Ai';
+// import { AiOutlineHome } from 'react-icons/Ai';
 import { FiSettings } from 'react-icons/fi';
 
 const Sidebar = ({ children }) => {
